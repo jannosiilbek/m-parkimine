@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones>
+ <!-- Tallinn -->
+ <zone city="Tallinn" provider="Tallinn" key="kesklinn" desc="16kr/h, 0.80kr/3min" free_time="15">
+   
+ </zone>
+ <zone city="Tallinn" provider="Tallinn" key="südalinn" desc="36kr/h, 0.60kr/min" free_time="15"/>
+ <zone city="Tallinn" provider="Tallinn" key="vanalinn" desc="72kr/h, 1.20kr/min" free_time="15"/>
+
+ <!--  Pirita -->
+ <zone city="Tallinn" provider="Europark" key="EP36" address="Regati pst.1, Olümpiapurjespordikeskus - TOP" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP37" address="Regati pst.1, Pirita Top Spa Hotell" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Tallinn" key="PIRITA" address="Pirita" desc="15.mai -15.september - E-P 10:00 -22:00 hind 12kr/h (0,20 kr/1 minut), Kuupäevaline päevapilet 50kr - kuni päevapileti tasu täitumiseni arvestatakse tunnitasu"/>
+
+ <!--  Citypark -->
+ <zone city="Tallinn" provider="Citypark" key="CP11" address="" desc="5kr/h, 30kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP12" address="" desc="30kr/h, iga alustatud 15 min 7.50kr, 150kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP13" address="" desc="5kr/h, 30kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP15" address="" desc="iga alustatud tund 10kr, 50kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP16" address="" desc="6kr/h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP17" address="" desc="30kr/h, 7.50kr iga alustatud 15 minutit, 100kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP20" address="" desc="10kr/h, iga alustatud tund 10kr, 50kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP21" address="" desc="10kr/h, esimene alustatud tund 10kr, 10kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP22" address="" desc="20kr/h, esimene alustatud tund 20 kr, 20kr/24h" free_time="15"/>
+ <zone city="Tallinn" provider="Citypark" key="CP8" address="" desc="12kr/h (iga alustatud tund 12kr); 50kr/24h" free_time="15"/>
+ <!--  Motocar -->
+ <zone city="Tallinn" provider="Motocar, 900" key="900" address="Tuukri 8" desc="10kr/h, 2.50kr iga alustatud 15 minutit, 25kr/24h"/>
+ <zone city="Tallinn" provider="Motocar, 901" key="901" address="Tuukri 22" desc="10kr/h, 2.50kr iga alustatud 15 min, 35kr/24h"/>
+ <zone city="Tallinn" provider="Motocar, 901" key="901" address="Tuukri 22" desc="10kr/h, 2.50kr iga alustatud 15 min, 35kr/24h"/>
+ <!--  Europark -->
+ <zone city="Tallinn" provider="Europark" key="EP1" address="Viru väljak 4, Sokos Hotel Viru esine parkla" desc="50kr/h, 12.5kr iga alustatud 15min, 300kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP10" address="Mardi 4" desc="12kr/h, 3kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP11" address="Maakri 34" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP12" address="Mere pst 14/Kai 2, Sadama parkla" desc="10kr/h, 2.5kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP13" address="Narva mnt 13" desc="36kr/h, 9kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP14" address="Sakala 10" desc="25kr/h, 6.25kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP15" address="Vana-Viru 15" desc="40kr/h, 10kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP16" address="Liivalaia tn 33, Reval Hotel Olümpia parkla" desc="24kr/h, 6kr iga alustatud 15min, 300kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP17" address="Tartu mnt 31/33" desc="24kr/h, 6kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP18" address="Kreutzwaldi 3" desc="12kr/h, 3kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP19" address="Kentmanni 28" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP2" address="Juhkentali 3" desc="16kr/h, 4kr iga alustatud 15 min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP20" address="Tartu mnt 75" desc="5kr/h, 1.25kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP21" address="Kevade 3, Uniquestay Hotel" desc="24kr/h, 6kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP22" address="Õismäe tee 10A" desc="5 kr/h, 1.25kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP24" address="Aia tn 7, 'Rimi' juures olev parkla" desc="50kr/h, 12.5kr iga alustatud 15min, 300kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP25" address="Tartu mnt 15" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP26" address="Lootsi 8" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP27" address="Kreutzwaldi 23, Reval Park Hotel" desc="24kr/h, 6kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP28" address="Jakobsoni 13" desc="12kr/h, 3kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP29" address="Pärnu mnt 31" desc="20kr/h, 5kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP3" address="Tartu mnt 50" desc="12kr/h, 3kr iga alustatud 30min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP30" address="Tuukri 56" desc="10kr/h, 2.5kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP31" address="Tuukri 2" desc="12kr/h, 3kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP32" address="Juhkentali 19" desc="10kr/h, 2.5kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP35" address="Ülemiste City" desc="10kr/h, 2.5kr iga alustatud 15min, 80kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP38" address="Ravi 13" desc="12kr/h, 3kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP39" address="Kaupmehe 12/23" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP4" address="Lembitu tn 2" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP40" address="Süda 1" desc="20kr/h, 5kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP41" address="Pirita tee 17, Kalevi Jahtklubi" desc="10kr/h, 2.5 iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP42" address="Ahtri 3" desc="10kr/h, 2.5kr iga aslustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP43" address="Tartu mnt 16A" desc="20kr/h, 5kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP45" address="Pärnu mnt.158" desc="10kr/h, 2.5kr iga alustatud 15min, 35kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP46" address="Tartu mnt 46" desc="10kr/h, 2.5kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP47" address="Estonia pst 7A" desc="30kr/h, 7.5kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP48" address="Liivalaia 33 (Olümpia hotelli tagumine parkla)" desc="18kr/h, 4.5kr iga alustatud 15min, 75kr/ 24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP49" address="Süda 1A" desc="30kr/h, 7.5kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP5" address="Mere pst 6 maja ääres" desc="50kr/h, 12.5kr iga alustatud 15min"/>
+ <zone city="Tallinn" provider="Europark" key="EP50" address="Ahtri 2" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP51" address="Tuukri 1B" desc="10kr/h, 2.5kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP52" address="Keldrimäe 9, Tallinna Keskturg" desc="10kr/h, 2.5kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP54" address="Saani 2" desc="10kr/h, 2.5kr iga alustatud 15min, 10kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP55" address="Tartu mnt.17" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP56" address="Rävala 8" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP58" address="Raua 10" desc="12kr/h, 3kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP59" address="Hallivanamehe 4" desc="10kr/h, 2.5kr iga alustatud 15min, 10kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP6" address="Mere pst 6E" desc="24kr/h, 6kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP61" address="Aia tn.18" desc="1.50/h, 12,5kr iga alustatud 15 min, 300kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP7" address="Rüütli 3" desc="50kr/h, 12.5kr iga alustatud 15min, 300kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP8" address="Turu 4" desc="12kr/h, 3kr iga alustatud 15min, 100kr/24h"/>
+ <zone city="Tallinn" provider="Europark" key="EP9" address="Sadama 1, Tallink Express hotell" desc="24kr/h, 6kr iga alustatud 15min, 150kr/24h"/>
+ <!--  Ühisteenused -->
+ <zone city="Tallinn" provider="Ühisteenused" key="P10" address="Akadeemia tee 19" desc="10kr/h, 2.50 kr iga alustatud 15min, 40kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P11" address="Kunderi põik 4-8" desc="10kr/h, 2.50 kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P12" address="Uus-Sadama 11" desc="10kr/h, 2.50kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P13" address="Rotermanni 14" desc="15kr/h, 3.75kr iga alustatud 15min, 150kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P14" address="Kärneri 6" desc="10kr/h, 2.50kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P15" address="J.Vilmsi 34" desc="10kr/h, 2.50kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P16" address="Veerenni 54" desc="10kr/h, 2.50kr iga alustatud 15min, 25kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P2" address="Tartu mnt 10a" desc="28kr/h, 7kr iga alustatud 15min, 250kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P4" address="Rannamäe tee 5" desc="10kr/h, 2.50kr iga alustatud 15min"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P5" address="Soo 1a" desc="10kr/h, 2.50kr iga alustatud 15min"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P51" address="Lai 30" desc="10kr/h, 2.50 kr iga alustatud 15min"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P6" address="Suurtüki 12" desc="10kr/h, 2.50kr iga alustatud 15min, 50kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P7" address="Kaarli pst 2" desc="36kr/h, 9kr iga alustatud 15min, 250kr/24h"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P8" address="Ahtri 8/12" desc="30kr/h, 7.5kr iga alustatud 15min"/>
+ <zone city="Tallinn" provider="Ühisteenused" key="P9" address="Suur-Ameerika 14" desc="10kr/h, 2.50 kr iga alustatud 15min, 50kr/24h"/>
+</zones>

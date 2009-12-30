@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"  >
+
+	<EditTextPreference android:name="RegNo Preference"
+	android:title="Registri number" android:key="regno" />
+
+	<ListPreference android:title="Operaator" android:key="operator"
+		android:defaultValue="EMT" android:entries="@array/operators"
+		android:entryValues="@array/operators" />
+</PreferenceScreen>

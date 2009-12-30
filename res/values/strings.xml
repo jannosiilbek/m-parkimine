@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="hello">Parkimine alustamine/lõpetamine</string>
+ <string name="app_name">M-Parkimine</string>
+ <string name="button_park">Pargi</string>
+ <string name="button_unpark">Lõpeta parkimine</string>
+ <string name="button_locate">Leia asukoht</string>
+ <string name="regno">registri number:</string>
+ <string name="settings">Parkimise seaded</string>
+ <string name="parkingMap">Parkimise kaart</string>
+ <string name="operator">operaator:</string>
+ <string name="zone">vali tsoon</string>
+ <string-array name="operators">
+  <item>EMT</item>
+  <item>Elisa</item>
+  <item>Tele2</item>
+ </string-array>
+</resources>

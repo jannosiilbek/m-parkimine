@@ -7,6 +7,6 @@ public class SettingsActivity extends
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
 
-    addPreferencesFromResource(R.xml.preferences);
+    addPreferencesFromResource(R.xml.settings);
   }
 }

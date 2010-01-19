@@ -96,4 +96,24 @@
  <zone city="Tallinn" provider="Ühisteenused" key="P7" address="Kaarli pst 2" desc="36kr/h, 9kr iga alustatud 15min, 250kr/24h"/>
  <zone city="Tallinn" provider="Ühisteenused" key="P8" address="Ahtri 8/12" desc="30kr/h, 7.5kr iga alustatud 15min"/>
  <zone city="Tallinn" provider="Ühisteenused" key="P9" address="Suur-Ameerika 14" desc="10kr/h, 2.50 kr iga alustatud 15min, 50kr/24h"/>
+ 
+ <zone city="Tartu" provider="Tartu" key="A15" desc="E-R 8:00 - 18:00 hind 25 kr/h"/>
+ <zone city="Tartu" provider="Tartu" key="B60" desc="E-R 8:00 - 18:00 hind 10 kr/h"/>
+ <zone city="Tartu" provider="Tartu" key="C60" desc="E-R 8:00 - 18:00 hind 5 kr/h"/>
+ 
+ <zone city="Pärnu" provider="Pärnu" key="PARNU" desc="Pärnu kesklinn; E-R 8:00-18:00 hind 10 kr/h, (iga alustatud tund 10kr) kuupäevaline päevapilet 50kr - kuni päevapileti  tasu täitumiseni arvestatakse tunnitasu"/>
+ <zone city="Pärnu" provider="Pärnu" key="RAND" desc="(RAND) - Pärnu rannatsoon 1. juuni - 31. august E-P 08.00-18.00 1h 50 krooni - parkimise 3 esimest tundi arvestatakse tunnitasuga (50 kr iga alustatud tund), päevapilet 200 krooni - päevapileti tasu arvestatakse hetkest, kui parkimise kestus ületab kolme (3) tundi"/>
+ 
+ <zone city="Viljandi" provider="Viljandi" key="VILJANDI" desc="Viljandi kesklinn; E-R 9:00 - 16:00, hind 1 h 5 krooni, päevapilet 30 krooni - päevapileti tasu arvestatakse hetkest, kui parkimise kestus ületab kuut (6) tundi"/>
+ 
+ <zone city="Jõhvi" provider="Jõhvi" key="JHV1" desc="Jõhvi kesklinna tasulised parklad; E-R  8:00 - 18:00; L 9:00 - 15:00 hind 15 kr/h (esimene tund tasuta, edasi  3.75 kr iga alustatud 15min)"/>
+ <zone city="Jõhvi" provider="Jõhvi" key="JHVPÄEV" desc="päevapilet, hind 75 kr - tasu arvestatakse parkimise alustamishetkest"/>
+ 
+ <zone city="Toila" provider="Toila" key="SADAMA" desc="Toila sadama ja ranna esine piirkond; E-P 10:00 -20:00 hind 25 kr/h"/>
+ <zone city="Toila" provider="Toila" key="RANNA" desc="Ranna ja Oru tänava piirkond; E-P 10:00-20:00 päevapilet, hind 25 kr- tasu arvestatakse parkimise alustamishetkest"/>
+
+ <zone city="Narva-Jõesuu" provider="Narva-Jõesuu" key="NJ1" desc="15.mai kuni 15.september E-P 08:00 kuni 20:00; esimesed 15min tasuta, edasi iga alustatud tund 20kr"/>
+ <zone city="Narva-Jõesuu" provider="Narva-Jõesuu" key="NJ2" desc="15.mai kuni 15.september E-P 08:00 kuni 20:00; esimesed 15min tasuta, edasi päevapilet hind 35kr"/>
+
+ <zone city="Lüganuse vald" provider="Lüganuse vald" key="LIIMALA" desc="(Liimala rand, Lüganuse vald, Ida-Virumaa); E-P 09:00 - 20:00, päevapilet 10 krooni - tasu arvestatakse parkimise alustamishetkest"/>
 </zones>

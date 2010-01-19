@@ -20,15 +20,13 @@ public final class R {
         public static final int parking_sign=0x7f020003;
     }
     public static final class id {
-        public static final int bottomtext=0x7f080009;
-        public static final int btnLocate=0x7f080004;
-        public static final int btnStopParking=0x7f080006;
+        public static final int bottomtext=0x7f080007;
+        public static final int btnStopParking=0x7f080004;
         public static final int buttons=0x7f080002;
-        public static final int parkingTimer=0x7f080007;
+        public static final int parkingTimer=0x7f080005;
         public static final int root=0x7f080001;
-        public static final int toptext=0x7f080008;
-        public static final int zone=0x7f080003;
-        public static final int zoneListView=0x7f080005;
+        public static final int toptext=0x7f080006;
+        public static final int zoneListView=0x7f080003;
         public static final int zoneMap=0x7f080000;
     }
     public static final class layout {
@@ -55,6 +53,6 @@ public final class R {
     }
     public static final class xml {
         public static final int conf=0x7f040000;
-        public static final int preferences=0x7f040001;
+        public static final int settings=0x7f040001;
     }
 }

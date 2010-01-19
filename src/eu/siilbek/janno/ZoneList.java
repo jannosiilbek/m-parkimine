@@ -15,11 +15,9 @@ import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
 
-import android.app.ListActivity;
-import android.os.Bundle;
-import android.widget.ArrayAdapter;
-
 public class ZoneList extends ArrayList implements ContentHandler {
+
+  private static final long serialVersionUID = -4297410984875339951L;
 
   public static void main(String args[]) throws FileNotFoundException {
     FileInputStream fis = new FileInputStream("res/xml/zones.xml");

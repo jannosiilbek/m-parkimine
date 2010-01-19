@@ -3,8 +3,8 @@
 
 	<EditTextPreference android:name="RegNo Preference"
 	android:title="Registri number" android:key="regno" />
-
+<!-- 
 	<ListPreference android:title="Operaator" android:key="operator"
 		android:defaultValue="EMT" android:entries="@array/operators"
-		android:entryValues="@array/operators" />
+		android:entryValues="@array/operators" />  -->
 </PreferenceScreen>
